@@ -1,0 +1,1412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ext",
+				"extSearch"
+			],
+			[
+				"ex",
+				"extSearch"
+			],
+			[
+				"I",
+				"IMonitorDisplay"
+			],
+			[
+				"edit",
+				"edit_token"
+			],
+			[
+				"vie",
+				"view_id"
+			],
+			[
+				"class",
+				"class	class-..-(class)"
+			],
+			[
+				"com",
+				"compile"
+			],
+			[
+				"insertA",
+				"insertAtUser"
+			],
+			[
+				"fin",
+				"find_all"
+			],
+			[
+				"o",
+				"ostream"
+			],
+			[
+				"op",
+				"operator"
+			],
+			[
+				"pri",
+				"print	print"
+			],
+			[
+				"c",
+				"std::cout << << std::endl;"
+			],
+			[
+				"n",
+				"nomalized"
+			],
+			[
+				"prin",
+				"printError"
+			],
+			[
+				"T",
+				"TEMPLATE_ERROR"
+			],
+			[
+				"f",
+				"fulltext"
+			],
+			[
+				"pars",
+				"parse"
+			],
+			[
+				"add",
+				"add_attribute"
+			],
+			[
+				"sea",
+				"search"
+			],
+			[
+				"e",
+				"extractions"
+			],
+			[
+				"pat",
+				"pattern"
+			],
+			[
+				"fi",
+				"find_all"
+			],
+			[
+				"err",
+				"error"
+			],
+			[
+				"np",
+				"NPCol"
+			],
+			[
+				"get",
+				"getEntry"
+			],
+			[
+				"ref",
+				"refreshAll"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"name",
+				"nameSpace_exit"
+			],
+			[
+				"cpp",
+				"cppObject"
+			],
+			[
+				"se",
+				"set	set"
+			],
+			[
+				"wold",
+				"world"
+			],
+			[
+				"line",
+				"lineSplit"
+			],
+			[
+				"tab",
+				"tabAligne"
+			],
+			[
+				"Se",
+				"SearchNS"
+			],
+			[
+				"sc",
+				"scopeLvl"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"ta",
+				"tab_size"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"Fo",
+				"ForGetSet"
+			],
+			[
+				"naem",
+				"namestpace"
+			],
+			[
+				"Name",
+				"NameSpace"
+			],
+			[
+				"set",
+				"setInLine"
+			],
+			[
+				"all",
+				"allInHpp"
+			],
+			[
+				"in",
+				"inLine"
+			],
+			[
+				"return",
+				"returnType"
+			],
+			[
+				"retur",
+				"returnType"
+			],
+			[
+				"def",
+				"defaultString"
+			],
+			[
+				"exis",
+				"existe"
+			],
+			[
+				"att",
+				"attrName"
+			],
+			[
+				"args",
+				"argsParsed"
+			],
+			[
+				"attr",
+				"attrib"
+			],
+			[
+				"Class",
+				"ClassName"
+			],
+			[
+				"sep",
+				"sepinv"
+			],
+			[
+				"cons",
+				"console.	console.log()"
+			],
+			[
+				"GET",
+				"GetAllRepo"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"urle",
+				"urlencode"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"data",
+				"datastring"
+			],
+			[
+				"parse",
+				"parseAddr"
+			],
+			[
+				"Re",
+				"RegExp"
+			],
+			[
+				"consol",
+				"console.	console.error()"
+			],
+			[
+				"par",
+				"parserfix"
+			],
+			[
+				"ge",
+				"getHeader"
+			],
+			[
+				"Sta",
+				"StartProcess"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"sess",
+				"sessionID"
+			],
+			[
+				"or",
+				"orderId"
+			],
+			[
+				"POR",
+				"PORTORDER"
+			],
+			[
+				"URL",
+				"URLORDER"
+			],
+			[
+				"ne",
+				"NewOrderTrade"
+			],
+			[
+				"All",
+				"AllMoney"
+			],
+			[
+				"Orde",
+				"OrderQty"
+			],
+			[
+				"Ord",
+				"OrderQty"
+			],
+			[
+				"has",
+				"has_key"
+			],
+			[
+				"exep",
+				"except	keyword"
+			],
+			[
+				"exe",
+				"Exception	exception"
+			],
+			[
+				"p",
+				"poll"
+			],
+			[
+				"l",
+				"link	Tag"
+			],
+			[
+				"script",
+				"script	Tag"
+			],
+			[
+				"O",
+				"Object"
+			],
+			[
+				"Or",
+				"OrderID"
+			],
+			[
+				"ha",
+				"hasOwnProperty"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"sle",
+				"select"
+			],
+			[
+				"acc",
+				"accounts"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"Conne",
+				"ConnectPsql"
+			],
+			[
+				"R",
+				"Run"
+			],
+			[
+				"ca",
+				"callback"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"locl",
+				"localhost"
+			],
+			[
+				"None",
+				"None	keyword"
+			],
+			[
+				"call",
+				"callbackCM"
+			],
+			[
+				"Key",
+				"KeyboardInterrupt	"
+			],
+			[
+				"cha",
+				"channel2"
+			],
+			[
+				"connect",
+				"connection"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"Sto",
+				"StopRate"
+			],
+			[
+				"To",
+				"ToSQLDate"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"bod",
+				"bodyJSON"
+			],
+			[
+				"Order",
+				"OrderQty"
+			],
+			[
+				"Exe",
+				"Exception	exception"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"Ne",
+				"NewOrder"
+			],
+			[
+				"s",
+				"subscribe"
+			],
+			[
+				"kedric",
+				"kedricRedis"
+			],
+			[
+				"message",
+				"message"
+			],
+			[
+				"pr",
+				"printable"
+			],
+			[
+				"false",
+				"False	keyword"
+			],
+			[
+				"da",
+				"datetime"
+			],
+			[
+				"id",
+				"id_data"
+			],
+			[
+				"Sig",
+				"SigRep"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"Red",
+				"Redis2"
+			],
+			[
+				"json",
+				"JSON"
+			],
+			[
+				"b",
+				"button	Tag"
+			],
+			[
+				"ti",
+				"timeout"
+			],
+			[
+				"Main",
+				"MainController"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"Ge",
+				"GetPendingTrade"
+			],
+			[
+				"co",
+				"console.	console.log()"
+			],
+			[
+				"Stop",
+				"Stoporder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/make.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"clea",
+				"SublimeLinter: Clear Caches"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"autu",
+				"AngularJS: Toggle - Disable Built-in Directive Completions"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"42 : Update header"
+			],
+			[
+				"hello",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"rei",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"packe",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"PACKA",
+				"Package Control: List Packages"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"coffe",
+				"Coffee: Quick Run Bar"
+			],
+			[
+				"cake",
+				"Coffee: Run Cake Task"
+			],
+			[
+				"c",
+				"Coffee: Run Cake Task"
+			],
+			[
+				"coff",
+				"Coffee: Fast Compile"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Setup Server…"
+			],
+			[
+				"gr",
+				"Grunt"
+			],
+			[
+				"co",
+				"Coffee: Run Cake Task"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"node",
+				"Nodejs::Default File Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git d",
+				"Git: Diff Current File"
+			],
+			[
+				"nodejs",
+				"Snippet: Snippet: NodeJS EventEmitter"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"type",
+				"TypeScript: Check Syntax"
+			],
+			[
+				"myoncl",
+				"SublimeREPL: Python - PDB current file"
+			],
+			[
+				"t",
+				"TypeScript: Check Syntax"
+			],
+			[
+				"rein",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"json re",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"js",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"subli",
+				"SublimeREPL: CoffeeScript"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"hea",
+				"Header Creator: Create/update Header and keyword files"
+			],
+			[
+				"lee",
+				"LeekScript : Lancer LeeKloud"
+			],
+			[
+				"leek",
+				"LeekScript : Lancer LeeKloud"
+			],
+			[
+				"lek",
+				"LeekScript : Lancer LeeKloud"
+			],
+			[
+				"slim",
+				"Set Syntax: Ruby Slim"
+			],
+			[
+				"repl",
+				"SublimeREPL: Rails"
+			],
+			[
+				"sublime ",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"sublimegdb",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"sublimegd",
+				"Preferences: SublimeGDB Settings – Default"
+			],
+			[
+				"she",
+				"SublimeREPL: Shell"
+			],
+			[
+				"sublime",
+				"SublimeREPL: Shell"
+			],
+			[
+				"sublimere",
+				"SublimeREPL: Io"
+			],
+			[
+				"sublimerepl",
+				"SublimeREPL: PowerShell"
+			],
+			[
+				"sublimegdb ",
+				"SublimeREPL: GDB"
+			],
+			[
+				"sublimeg",
+				"SublimeREPL: GDB"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"sublimeline",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"sublimelint",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			],
+			[
+				"sublo",
+				"SublimeLinter: Choose Gutter Theme"
+			],
+			[
+				"subline",
+				"Preferences: SublimeLint Settings – Default"
+			],
+			[
+				"sublimel",
+				"Preferences: SublimeLint Settings – User"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"sublimeli",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"git ",
+				"Git: Diff"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 184.0,
+		"history":
+		[
+			"dir(view.view_id)",
+			"dir(view)",
+			"dir(view.win)",
+			"dir(win)",
+			"dir(view)",
+			"view.run_command('cannonic_class')",
+			"view.run_command('my_plugin_create_cannonic_class')",
+			"dir(view)",
+			"view.run('my_plugin_create_cannonic_class')",
+			"dir(str)",
+			"dir(view)",
+			"view.find_all('//## Atribue')",
+			"view.find_all('//## Atribute')",
+			"view.find_all('io')",
+			"dir(view)",
+			"view.find_by_class(0, True,sublime.CLASS_PUNCTUATION_START,'getUserLine')",
+			"view.find_by_class(0, true,sublime.CLASS_PUNCTUATION_START,'getUserLine')",
+			"view.find_by_class(0, -1,sublime.CLASS_PUNCTUATION_START,'getUserLine')",
+			"view.find_by_class(0, sublime.CLASS_PUNCTUATION_START,'getUserLine')",
+			"view.find_by_class('getUserLine')",
+			"view.line(6)",
+			"dir(view)",
+			"view.substr(0)",
+			"view.substr(0,306,view)",
+			"view.substr(0.306)",
+			"view.substr([(0,306)])",
+			"view.substr((0,306))",
+			"view.substr(0,306)",
+			"view.substr(0)",
+			"dir(view)",
+			"dir(self.view)",
+			"while a:",
+			"a = view.substr(0)",
+			"view.substr(0)",
+			"view.substring(0)",
+			"view.text_to_layout(2)",
+			"view.substr(view.text_to_layout(2))",
+			"view.substr(view.text_to_layout())",
+			"view.text_to_layout(2)",
+			"view.text_to_layout(1)",
+			"view.text_to_layout(0)",
+			"view.text_to_layout(1)2",
+			"view.text_to_layout(1)",
+			"view.text_to_layout(view.visible_region())",
+			"view.split_by_newlines()",
+			"ls",
+			"view.visible_region()",
+			"view.text_to_layout()",
+			"view.viewport_position()",
+			"view.get_regions(0,306)",
+			"view.get_regions()",
+			"view.substr(0, 308)",
+			"dir(view)",
+			"view.size()",
+			"view.full_line(6)",
+			"view.full_line()",
+			"view.full_line",
+			"view.get_regions(edit,0,304)",
+			"view.get_regions(0,304)",
+			"get_regions(0,304)",
+			"view.size()",
+			"dir(view)",
+			"dir(edit)",
+			"view.get_regions(sel)",
+			"get_regions(key)",
+			"print(dir(pos))",
+			"view.line(pos)",
+			"print(dir(view))",
+			"pos['x']",
+			"pos.x",
+			"pos",
+			"pos = view.sel()",
+			"print(dir(view))",
+			"pos = view.sel()",
+			"view.line(6)",
+			"view.line(view,pos)",
+			"view.line(pos)",
+			"pos = view.sel()",
+			"dir(pos)",
+			"pos",
+			"pos = view.sel()",
+			"print(dir(view))",
+			"dir(view.selection)",
+			"view.selection",
+			"view.selection()",
+			"view.layout_to_text()",
+			"print(dir(view))",
+			"view.begin_edit()",
+			"view.full_line(6)",
+			"print(dir(view))",
+			"view.get_line(6)",
+			"view.line(6)",
+			"view.line()",
+			"view.line",
+			"view.rowcol()",
+			"view.full_line()",
+			"print(dir(view))",
+			"dir()",
+			"edit",
+			"dir(view)",
+			"view",
+			"view.showCompletions()",
+			"self.showCompletions()",
+			"showCompletions()",
+			"dir(sublime)",
+			"self.CLASS_LINE_START",
+			"view.run_command('auto_complet')",
+			"view.insert()",
+			"dir(view.id)",
+			"view.id",
+			"id",
+			"dir(view)",
+			"view.get_regions(view.full_line(6))",
+			"view.get_regions(view.full_line())",
+			"view.get_regions()",
+			"dir(view)",
+			"view.full_line(6)",
+			"view.full_line(x)",
+			"view.full_line()",
+			"dir()",
+			"full_line()",
+			"self.full_line()",
+			"self.full_line",
+			"self.auto_complet",
+			"dir(view)",
+			"view.runCommand('auto_complet')",
+			"dir()",
+			"dir(os)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush01",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush01/inc"
+	],
+	"file_history":
+	[
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/myPlugin/my_plugin.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush01/src/main.cpp",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush01/src/IMonitorModule.class.cpp",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush01/src/IMonitorDisplay.class.cpp",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush01/inc/IMonitorDisplay.class.hpp",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush01/inc/IMonitorModule.class.hpp",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/myPlugin/template.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush01/Makefile",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush01/rush01.sublime-project",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/User/make.sublime-build",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush01/convert",
+		"/Users/jmancero/Google Drive/gitperso/cppGenerator/src/main.cpp",
+		"/Users/jmancero/Google Drive/gitperso/cppGenerator/src/parser.class.cpp",
+		"/Users/jmancero/Google Drive/gitperso/cppGenerator/inc/Parser.class.hpp",
+		"/Users/jmancero/Google Drive/gitperso/cppGenerator/src/theard.class.cpp",
+		"/Users/jmancero/Google Drive/gitperso/cppGenerator/inc/theard.class.hpp",
+		"/Users/jmancero/Google Drive/gitperso/cppGenerator/src/inc/theard.class.hpp",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/myPlugin/Cpp.sublime-completions",
+		"/Users/jmancero/Google Drive/gitperso/cppGenerator/Makefile",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/myPlugin/SublimeHelper.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Installed Packages/PyV8/osx-p3/PyV8.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Installed Packages/All Autocomplete.sublime-package",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Installed Packages/Python Auto-Complete.sublime-package",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/d05/ex00/Bureaucrat.hpp",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/d05/ex00/Bureaucrat.cpp",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/User/untitled.cpp",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/myPlugin/readline.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/User/std.sublime-completions",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/myPlugin/app.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/myPlugin/ClassGen.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/myPlugin/Default (OSX).sublime-keymap",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/d05/ex01/Bureaucrat.cpp",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/d05/ex01/Bureaucrat.hpp",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/item/nameSpace.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/myparser.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/myItem/__init__.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/myItem/fnc.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/myItem/var.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/auto_complet_cpp.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/class_generator/app.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/Error:File not Found",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/Item/__init__.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/Item/readhpp.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/class_generator/elements/File.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/class_generator/elements/cppObject/Fnc.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/class_generator/elements/cppObject/NSpace.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/class_generator/elements/cppObject/Var.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/cppObject/__init__.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/sublimeHelper",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/cppObject/variable.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoCompletCpp/cppObject/parser.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/app.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/la",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/elements/parser/parserHpp.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/readline.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/elements/__init__.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/elements/parser/parserCpp.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoComplet/elements/parser/regexp.py",
+		"/Applications/Sublime Text.app/Contents/MacOS/sublime_plugin.py",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoComplet/README.md",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/autoComplet/Default (OSX).sublime-keymap",
+		"/Users/jmancero/Library/Application Support/Sublime Text 3/Packages/User/autoComplet/package-metadata.json",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/rush00/src/Game.class.cpp",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/elements/cppobject/Var.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/elements/Parser.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/.hpp",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/elements/Parser/Parser.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/ClapTrap.cpp",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/ClapTrap.hpp",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/elements/cppObject/_init_.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/test.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/elements/File.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/elements/NSpace.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/elements/Parser/ParserFnc.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/OLD/defaultString.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/OLD/DefineCpp.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/Compar/toComp.py",
+		"/Users/jmancero/Google Drive/gitperso/ClassGenerator/ClassGen.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/Elements/__init__.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/Elements/NameSpace.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/Elements/SubNameSpace.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/elements/NameSpace.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/Config.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/elements/defaultString.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/ClapTrap.hpp",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/ClapTrap.cpp",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/DefineCpp.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/ClassGen.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/Elements/__init__py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/lol.hpp",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/Hppgen.py",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/ClassGenerator/function",
+		"/Users/jmancero/Google Drive/gitperso/PiscineC-/d00/ex00/ megaphone.cpp",
+		"/Users/jmancero/Google Drive/gitperso/autoupdate/node_modules/bitbucket-api/lib/curl-transport.js",
+		"/Users/jmancero/Google Drive/gitperso/autoupdate/Oauth.coffee",
+		"/Users/jmancero/Google Drive/gitperso/autoupdate/BitBucket.coffee",
+		"/Users/jmancero/Google Drive/gitperso/autoupdate/test-bitbucket.js",
+		"/Users/jmancero/Google Drive/gitperso/autoupdate/nodeAddWebhook.js",
+		"/Users/jmancero/Google Drive/gitperso/autoupdate/node_modules/bitbucket-api/lib/bitbucket.js",
+		"/Users/jmancero/Google Drive/gitperso/autoupdate/node_modules/bitbucket-api/lib/repository.js",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/python/Stream-App.py",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/sample/bigdtrade.js",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/Order/python.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/Order/nodejs.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/Stream/nodejs.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/Order.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/Redis.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/Stream.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/Order/nodjs.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/Order/python.py",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/WorkerDb.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/python/Fix/MessageHandler.py",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/BaseBuickfix.py",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/BaseQuickfix.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/README.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/python/configTradingDemo.cfg",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/node/node_modules/.bin/cake",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/node/node_modules/amqp/test/test-channel-overflow.js",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/python/Fix/fixXmlReader.py",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/Doc/Stream/python.md",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/python/configStreamDemo.cfg",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/python/Fix/__init__.py",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/python/Fix/fixChecker.py",
+		"/Users/jmancero/Google Drive/Works/moneyPushRest/python/configStreamReal.cfg"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"insertSnippet",
+			"runAction",
+			"insert_snippet",
+			"super",
+			"AutoCompletCommand",
+			"print",
+			"NameSpace",
+			"print",
+			"help",
+			"allinHpp",
+			"getStringHpp",
+			"fnc",
+			"returnType",
+			"_performSecureRequest",
+			"getCredentials",
+			"password",
+			"refresh",
+			"length",
+			"www",
+			"dir(",
+			"dir",
+			"SELECT",
+			"requests",
+			"\\r",
+			"console.log",
+			"was",
+			"67465843",
+			"40",
+			"59",
+			"37",
+			"FXCMPosID",
+			"8",
+			"FXCMPosID",
+			"FXCM_POS_ID",
+			"FXCMOrdStatus",
+			"FXCMOrdType",
+			"FXCMorders",
+			"execu",
+			"FXCMOrdStatus",
+			"execu",
+			"FXCMOrdType",
+			"FXCMOrdStatus",
+			"createServiceBusService",
+			"ConnectionError",
+			"libpdas.dylib",
+			"libpdas.dylib.1.3.0",
+			"libpda",
+			"libpdas.dylib",
+			"suite",
+			"sendto",
+			"connec",
+			"fct_write",
+			"new_client",
+			"alt+",
+			"Instrument",
+			"Symbol",
+			"Ordtype",
+			"print",
+			"Instrument",
+			"OrderQtyData",
+			"orderQty",
+			"enume",
+			"enum",
+			"watch",
+			"TradSesStatus",
+			"523",
+			"55",
+			"",
+			"Account",
+			"",
+			"Price",
+			"",
+			"msgtype=\"D\"",
+			"",
+			"msgtype=\"D\"",
+			"141",
+			"exampleTrading",
+			"exempleTrading",
+			"send ",
+			"setHeader",
+			"environment",
+			"Application",
+			"Applica",
+			"App",
+			"line",
+			"ng-click",
+			"azure-mobile.net/",
+			"public/",
+			"post",
+			".navbar-inverse",
+			"//",
+			"angular",
+			"$loca",
+			"getCa",
+			"$rootScope.type",
+			"progressBar",
+			"progress",
+			"pro",
+			"user.id",
+			"callback",
+			"egisterNew",
+			"face",
+			"//",
+			"clie",
+			"//",
+			"Hcha",
+			"\"",
+			"dlopen",
+			"function () {\n		var args = Array.prototype.slice.call",
+			"function () {\n		var args = Array.prototype.slice.call\n",
+			"arguments",
+			"warp",
+			"function () {\n		var args = Array.prototype.slice.call(arguments);\n		args.unshift(proceed);\n		return func.apply(this, args);\n	}\\",
+			"coffee",
+			"bcrypt",
+			"/*",
+			"bcrypt",
+			"BsonId",
+			"BsonConstructor",
+			"bjson",
+			"_id",
+			"reject()",
+			"your password",
+			"new trade",
+			">\n",
+			"        }\n        clearInterval(idInterval);\n    }, 7000);\n}",
+			"divmenu",
+			"left: -447.5px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Type",
+			"Type\n",
+			"\n",
+			"         ",
+			"'\\n'",
+			"\\n",
+			"\\\\n",
+			"",
+			"#",
+			"'",
+			"tcp_connect"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.631647727273,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 109.0
+	},
+	"project": "rush01.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"ind",
+				"node_modules/compression/index.js"
+			],
+			[
+				"flatapp/g",
+				"flatapp/Gruntfile.js"
+			],
+			[
+				"assets/components/library/modernizr/modernizr.js",
+				"public/assets/components/library/modernizr/modernizr.js"
+			],
+			[
+				"public/assets/animation/fastdemo.js",
+				"public/assets/animation/fastdemo.js"
+			],
+			[
+				"public/assets/components/library/modernizr/modernizr.js",
+				"public/assets/components/library/modernizr/modernizr.js"
+			],
+			[
+				"live",
+				"public/assets/animation/livechart.js"
+			],
+			[
+				"ncurses",
+				"inc/cncurses.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 227.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

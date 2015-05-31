@@ -1,0 +1,26 @@
+{
+	"build_systems":
+	[
+		{
+			"cmd":
+			[
+				"make",
+				"re",
+				"-C",
+				"$project_path"
+			],
+			"name": "make"
+		}
+	],
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "."
+		}
+	],
+	"settings":
+	{
+		"tab_size": 4
+	}
+}

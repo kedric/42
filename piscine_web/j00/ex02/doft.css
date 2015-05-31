@@ -1,0 +1,147 @@
+body
+{
+	background-color: #505050;
+}
+
+.roune
+{
+	box-shadow: 10px 10px 10px #000000;
+	background: #919191;
+	border-radius: 20px;
+}
+#all
+{
+	width: 1420px;
+	margin-left: auto;
+	margin-right: auto;
+}
+#div_top
+{
+	border-radius: 8px;
+	width: 100%;
+	height: 140px;
+	background-color: #909090;
+}
+
+#logo
+{
+	padding: 10px;
+	width: 612px;
+	height: 140px;
+	float: left;
+}
+#rendc
+{
+	width: 30;
+	float: right;
+}
+#loupe
+{
+	padding-top: 13px;
+	width: 256px;
+	height: 147px;
+	float: right;
+}
+#reload
+{
+	height: 40px;
+	float: right;
+	padding: 7px;
+}
+#close
+{
+	margin-top: 50px;
+	height: 40px;
+	float: right;
+	padding: 7px;
+}
+.icone
+{
+	width: 70px;
+	height: 70px;
+	margin: 7px;
+	margin-left: 30px;
+	border-color: #fd0302;
+	border-radius: 5px;
+}
+.iconer
+{
+	margin-top : 14px;
+	margin-left: 40px;
+	border-color: #fd0302;
+	border-radius: 5px;
+}
+#left_menu
+{
+	float: left;
+	margin-left: 30px;
+	margin-right: 30px;
+	padding-bottom: 25px;
+	background-color: #919191;
+	border-radius: 10px;
+	width: 140px;
+	height: 425px;
+}
+#mid
+{
+	float: left;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+	width: 1420px;
+	height: 590px;
+}
+#center
+{
+	padding: 10px;
+	float: left;
+	border-radius: 10px;
+	background-color: #909090;
+
+}
+
+#right
+{
+	float: left;
+	margin: 30px;
+	margin-top: 0px;
+	border-radius: 10px;
+	background-color: #909090;
+	width: 140px;
+	height: 425px;
+}
+
+#brick
+{
+	display: block;
+	background-image: url(resources/brick.jpg);
+	width: 120px;
+	height: 70px;
+	margin-top: 14px;
+	margin: 10px;
+}
+#form p
+{
+	margin: 0;
+	font-family: "Bistream Charter" sans-serif;
+	font-size: 12pt;
+}
+#form span
+{
+	font-family: "Times New Roman";
+	font-size: 34;
+}
+#form #input
+{
+	width: 375px;
+	padding: 0;
+	border:inset 2px;
+}
+#form{
+	padding: 10px;
+	background-color: #88FF89;
+	width: 500px;
+	height: 150px;
+	position: absolute;
+	top: 675px;
+	border-radius: 10px;
+}

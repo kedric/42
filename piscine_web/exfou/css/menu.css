@@ -1,0 +1,38 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+#game
+{
+	height: 675px;
+	width: 1420px;
+	position: absolute;
+	top: 0px;
+	background-image: url("../rush/ressource/bacground.gif");
+	margin-left: auto;
+	margin-right: auto;
+	padding: 0px;
+}
+td
+{
+	margin: 0;
+	padding: 0;
+}
+
+#menu
+{
+	position: absolute;
+	right: 0px;
+	top: 0px;
+	height: 675px;
+	width: 215px;
+	background-image: url("../rush/ressource/bacground.gif");
+	border: 2px;
+}
+.bmenu
+{
+	width: 208px;
+	margin: 4px;
+
+}

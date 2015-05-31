@@ -1,0 +1,93 @@
+	th
+	{
+		text-decoration:none;
+		border:solid;
+		border-width:1px;
+		font-size: 2vw;
+	}
+	td
+	{
+		text-decoration:none;
+		border:solid;
+		padding: 2px;
+		border-width:1px;
+		width: 1vw;
+		height: 1vh;
+		line-height: 1vh;
+	}
+	tr
+	{
+		text-decoration:none;
+	}
+	.poids
+	{
+		font-size: 1vw;
+		text-decoration:none;
+		text-align: right;
+	}
+	.symbole
+	{
+		padding: 0;
+		margin: 1;
+		text-decoration:none;
+		font-size: 3vh;
+		text-align: center;
+	}
+	.nbr
+	{
+		font-size: 2vh;
+	}
+	.line
+	{
+		padding: 0;
+		margin: 0;
+		text-decoration:none;
+		font-size: 3vh;
+		text-align: center;
+	}
+
+	.vide
+	{
+		border: none;
+	}
+	.nm
+	{
+		background-color: #7FFF00;
+	}
+	.ma
+	{
+		background-color: #FF7F50;
+	}
+	.mat
+	{
+		background-color: #FFD700;
+	}
+	.mtt
+	{
+		background-color: #CD5C5C;
+	}
+	.ptt
+	{
+		background-color: #6B8E23;
+	}
+	.metalo
+	{
+		background-color: #228B22;
+	}
+	.halo
+	{
+		background-color: #ADFF2F;
+	}
+	.grar
+	{
+		background-color: #1E90FF;
+	}
+	.lanta
+	{
+		background-color: #D2691E;
+	}
+	.acti
+	{
+		background-color: #A52A2A;
+	}
+	.noneb{background-color:white}

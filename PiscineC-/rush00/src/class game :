@@ -1,0 +1,11 @@
+class game :
+
+	+ bool finish
+	+ int tour
+
+	- new enemy
+	- new player
+	- new object
+	- new turn
+	- getInput
+	- printHud

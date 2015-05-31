@@ -1,0 +1,1 @@
+ INSERT INTO ft_table (`id`,`login`, `groupe`, `date_de_creation`) SELECT 'NULL', `nom`,'other', `date_naissance`  FROM `fiche_personne` WHERE `nom` LIKE '%a%' AND CHAR_LENGTH(nom) < 8 ORDER BY `nom` ASC ;

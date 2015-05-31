@@ -1,0 +1,37 @@
+class game :
+
+	+ bool finish
+	+ int tour
+
+	- new enemy
+	- new player
+	- new object
+	- new turn
+	- getInput
+	- printHud
+
+
+class object:
+	int x
+	int y
+	int speed
+	int life
+	int dmg
+	std::string symbole
+
+
+class character: - object
+	+ score
+	+ int nbLife
+
+	- tirer
+	- deplacement
+	- die
+
+class enemy: - object
+	+ value
+
+	- deplacement
+	- tirer
+	- die
+
